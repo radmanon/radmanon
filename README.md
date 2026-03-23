@@ -1,11 +1,6 @@
 <div align="center">
-      <h1>Welcome/Bonjour, I'm/Je suis</h1>
-      <!--
+      <h1>Hi there, I'm</h1>
       <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
-      -->
-<p align="center">
-  <img src="https://media.tenor.com/9502775705338881743/tenor.gif" width="300"/>
-</p>
 </div>
 
 <!--
