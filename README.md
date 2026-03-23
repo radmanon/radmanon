@@ -1,10 +1,11 @@
 <div align="center">
-      <h1>Hi there, I'm</h1>
+      <h1>Welcome/Bonjour, I'm/Je suis</h1>
       <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
 </div>
 
-<h1 align="center">welcome to my GitHub Page</h1>
-<h3 align="center">I'm a Computer System Student at BCIT</h3>
+<!--
+<h3 align="center">I'm a CS Student</h3>
+-->
 <div align="center"><a>my Linkedin Account:</a></div>
 <br>
 <div align="center"><a href="https://www.linkedin.com/in/radman-mohammadi-893487192/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -14,7 +15,7 @@
 <br>
 <div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p></div>
 
-
+<!--
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and I am interested in
@@ -96,8 +97,9 @@
  </tr>
 </table>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radmanon&" alt="radmanon" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
+
