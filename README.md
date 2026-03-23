@@ -103,3 +103,7 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
 
+<br>
+<div align="center">
+      <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/bye.gif" alt="BYE BYE👋" title="BYE BYE"/>
+</div>
